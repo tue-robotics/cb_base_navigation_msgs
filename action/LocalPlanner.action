@@ -1,0 +1,7 @@
+geometry_msgs/PoseStamped[]     plan
+OrientationConstraint           orientation_constraint
+---
+bool                            result
+---
+float64                         dtg
+bool                            frame_exists
