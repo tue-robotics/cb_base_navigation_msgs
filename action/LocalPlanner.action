@@ -4,5 +4,7 @@ OrientationConstraint           orientation_constraint
 bool                            result
 ---
 float64                         dtg
-bool                            blocked
 bool                            frame_exists
+
+bool                            blocked
+geometry_msgs/Point             point_blocked
