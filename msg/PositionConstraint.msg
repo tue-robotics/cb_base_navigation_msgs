@@ -3,10 +3,10 @@
 string  frame
 string  constraint
 
-# frame: the coordinate frame in which the position constraint is active 
+# frame: the coordinate frame in which the position constraint is active
 #
-#  - examples:  "/map", "/person" , "/table"
- 
+#  - examples:  "map", "person" , "table"
+
 # constraint: constraint expression that defines the desired position
 #
 #  - variables: x, y
