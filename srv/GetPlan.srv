@@ -1,3 +1,4 @@
+geometry_msgs/PoseStamped   start # required
 PositionConstraint[]        goal_position_constraints
 ---
 geometry_msgs/PoseStamped[] plan
